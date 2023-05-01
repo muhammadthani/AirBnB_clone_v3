@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""City view"""
+"""Citys view"""
 
 from api.v1.views import app_views
 from flask import abort, jsonify, make_response, request
